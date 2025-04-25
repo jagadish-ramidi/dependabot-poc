@@ -24,6 +24,7 @@ require (
 	github.com/twilio/twilio-go v1.21.1
 	go.uber.org/zap v1.23.0
 	golang.org/x/net v0.36.0
+	google.golang.org/grpc v1.59.0
 )
 
 require (
